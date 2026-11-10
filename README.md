@@ -1,4 +1,4 @@
-# BSU-HU-CS-310-Final-Project
+# Shipment Application
 
 To compile this program first you have to type make into the command line. After all of the files run through then you can put in the command for what you want to do in the database. 
 
